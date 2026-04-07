@@ -1,7 +1,5 @@
 I do math and coding. 
 
-![Visitor Count](https://profile-counter.glitch.me/langchengit/count.svg)
-
 <!--
 **langchengit/langchengit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
