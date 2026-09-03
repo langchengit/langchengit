@@ -1,4 +1,9 @@
-I do math and coding. 
+Hello, my name is Minglang, studying software engineering @ University of Waterloo. 
+
+view my profolio at: 
+www.minglanging.com
+
+Looking forward to contribute to more open source projects. 😄
 
 <!--
 **langchengit/langchengit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
